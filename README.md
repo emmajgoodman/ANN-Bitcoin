@@ -6,7 +6,7 @@ The LSTM model is given the open, close, high, and low prices along with the mar
 This repository contains the following file:
 bitcoin_price_prediction.ipynb - Contains all code needed to run our model, including packages, data prep, visualization, and models
 
-We used the following datasets from Kaggle:
+We used the following datasets from Kaggle:  
 https://www.kaggle.com/datasets/sudalairajkumar/cryptocurrencypricehistory 
 https://www.kaggle.com/datasets/jerryfanelli/reddit-comments-containing-bitcoin-2009-to-2019?select=bitcoin_reddit_all.csv
 
